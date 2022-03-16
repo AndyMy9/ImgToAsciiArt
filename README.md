@@ -1,2 +1,0 @@
-# ImgToAsciiArt
-# ImgToAsciiArt
